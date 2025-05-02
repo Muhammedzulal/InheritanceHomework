@@ -1,0 +1,7 @@
+C:\Users\muham\source\repos\ShapesHomework\ShapesHomework\bin\Debug\ShapesHomework.exe.config
+C:\Users\muham\source\repos\ShapesHomework\ShapesHomework\bin\Debug\ShapesHomework.exe
+C:\Users\muham\source\repos\ShapesHomework\ShapesHomework\bin\Debug\ShapesHomework.pdb
+C:\Users\muham\source\repos\ShapesHomework\ShapesHomework\obj\Debug\ShapesHomework.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\ShapesHomework\ShapesHomework\obj\Debug\ShapesHomework.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\ShapesHomework\ShapesHomework\obj\Debug\ShapesHomework.exe
+C:\Users\muham\source\repos\ShapesHomework\ShapesHomework\obj\Debug\ShapesHomework.pdb
